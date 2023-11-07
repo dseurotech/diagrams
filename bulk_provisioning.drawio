@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T11:21:37.160Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4Wh0J6hvGyxQF0kpsxc_" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T11:34:47.281Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="2-Oh0krtmI28_6TKkk7F" version="22.0.8" type="github">
   <diagram name="Page-1" id="j6gioyIAEqbLCZLKHGax">
     <mxGraphModel dx="1595" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,6 +60,78 @@
             <mxPoint x="1250" y="770" as="sourcePoint" />
             <mxPoint x="1020" y="121" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1069" y="270" width="20" height="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1219" y="1290" width="20" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFkr_UpI-_JeJfKk1FL8-16" target="DFkr_UpI-_JeJfKk1FL8-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1252" y="1234" as="sourcePoint" />
+            <mxPoint x="850" y="271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="479" y="650" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="629" y="270" width="20" height="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFkr_UpI-_JeJfKk1FL8-20" target="DFkr_UpI-_JeJfKk1FL8-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="662" y="1584" as="sourcePoint" />
+            <mxPoint x="260" y="621" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.7;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DFkr_UpI-_JeJfKk1FL8-19" target="DFkr_UpI-_JeJfKk1FL8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-23" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="251" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-24" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1219" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-26" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1221" y="260" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-28" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="251" y="172" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-30" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="60" y="880" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-31" value="The Target Cliend ID will be supplied by the bulk request call, alongside the device&#39;s Serial Number" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="875" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-32" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="251" y="147" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-33" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="251" y="328" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-34" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1221" y="585" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-35" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="60" y="920" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-36" value="The Authentication Type will always be &quot;USER_CERT&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="915" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-37" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="60" y="960" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-38" value="The Provision Username will automatically be composed as &quot;{cliendId}-{SerialNo}&quot; for each device in the bulk request" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="955" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-39" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="62" y="1005" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DFkr_UpI-_JeJfKk1FL8-40" value="When creating bulk provisioning request, the first available endpoint with scheme=&#39;mqtts&#39; and secure=true will automatically be selected" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="92" y="1000" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
